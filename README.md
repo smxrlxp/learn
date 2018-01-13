@@ -1,10 +1,10 @@
 # Learn Bash, Java, PHP, PowerShell, Python  
 
-[Niveles / Levels](https://github.com/acruma/learn/blob/master/README.md#niveles--levels)
+[Niveles / Levels](https://github.com/acruma/learn#niveles--levels)
 
-[Tutorial](https://github.com/acruma/learn/blob/master/README.md#tutorial)
+[Tutorial](https://github.com/acruma/learn#tutorial)
 
-[Ejercicios / Exercises](https://github.com/acruma/learn/blob/master/README.md#ejercicios--exercises)
+[Ejercicios / Exercises](https://github.com/acruma/learn#ejercicios--exercises)
 
 # Niveles / Levels
 
