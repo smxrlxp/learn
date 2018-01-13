@@ -40,7 +40,10 @@ Ejercicio resuelto  ---------------------  [SPOILER](https://github.com/acruma/l
 **10.-** Inicializa una variable `fahrenheit`, calcula su equivalente a grados Celsius guardando el resultado en la variable `celsius` e ímprimelo por pantalla. **Fórmula: celsius = (fahrenheit - 32) / 1.8**.
 
 Ejercicio resuelto  ---------------------  [SPOILER](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#ejercicio-10-)
+---
+---
 
+> A continuación verás los ejercicios corregidos, son un ejemplo de como hacerlos, pues hay más de una forma.
 
 ---
 ---
