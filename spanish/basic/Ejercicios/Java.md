@@ -122,7 +122,9 @@ Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob
 ---
 ---
 #### ULTIMO AVISO - Ejercicio 3
-
+---
+---
+---
 # Ejercicio 3.-
 
 ```
@@ -149,7 +151,9 @@ Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob
 ---
 ---
 #### ULTIMO AVISO - Ejercicio 4
-
+---
+---
+---
 # Ejercicio 4.-
 
 ```
@@ -177,7 +181,9 @@ Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob
 ---
 ---
 #### ULTIMO AVISO - Ejercicio 5
-
+---
+---
+---
 # Ejercicio 5.-
 
 ```
@@ -205,7 +211,9 @@ Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob
 ---
 ---
 #### ULTIMO AVISO - Ejercicio 6
-
+---
+---
+---
 # Ejercicio 6.-
 
 ```
@@ -233,7 +241,9 @@ Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob
 ---
 ---
 #### ULTIMO AVISO - Ejercicio 7
-
+---
+---
+---
 # Ejercicio 7.-
 
 ```
@@ -260,7 +270,9 @@ Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob
 ---
 ---
 #### ULTIMO AVISO - Ejercicio 8
-
+---
+---
+---
 # Ejercicio 8.-
 
 ```
@@ -287,7 +299,9 @@ Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob
 ---
 ---
 #### ULTIMO AVISO - Ejercicio 9
-
+---
+---
+---
 # Ejercicio 9.-
 
 ```
@@ -314,7 +328,9 @@ Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob
 ---
 ---
 #### ULTIMO AVISO - Ejercicio 10
-
+---
+---
+---
 # Ejercicio 10.-
 
 ```
