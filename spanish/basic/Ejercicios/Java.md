@@ -1,6 +1,6 @@
 # Ejercicios basicos resueltos.  
 
-*1.-* Imprima en pantalla la cadena de caracteres "!Hola, mundo¡" .
+**1.-** Imprima en pantalla la cadena de caracteres "¡Hola, mundo!" .
 
 
 **2.-** Inicializa una variable (crea una variable y dale un valor) de tipo número real e imprimela por pantalla.
@@ -29,3 +29,55 @@
 
 
 **10.-** Inicializa una variable `fahrenheit`, calcula su equivalente a grados Celsius guardando el resultado en la variable `celsius` e ímprimelo por pantalla. **Fórmula: celsius = (fahrenheit - 32) / 1.8**.
+
+
+---
+---
+---
+#### ATENCION SI SIGUES NAVEGANDO VERÁS LOS EJERCICIOS RESUELTOS
+---
+---
+---
+---
+---
+---
+#### ATENCION SI SIGUES NAVEGANDO VERÁS LOS EJERCICIOS RESUELTOS
+---
+---
+---
+---
+---
+---
+#### ULTIMO AVISO Ejercicio 1
+---
+---
+---
+# 1.-
+```Java
+public class Ejercicio1JAVA{
+  public static void main(String[]args){
+  System.out.prinln("¡Hola, mundo!")
+  }
+}
+```
+---
+---
+---
+#### ATENCION SI SIGUES NAVEGANDO VERÁS LOS EJERCICIOS RESUELTOS
+---
+---
+---
+---
+---
+---
+#### ATENCION SI SIGUES NAVEGANDO VERÁS LOS EJERCICIOS RESUELTOS
+---
+---
+---
+---
+---
+---
+#### Ultimo aviso Ejercicio 2
+---
+---
+---
