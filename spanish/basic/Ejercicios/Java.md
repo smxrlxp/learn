@@ -6,40 +6,40 @@ Ejercicio resuelto  ---------------------  [SPOILER](https://github.com/acruma/l
 
 **2.-** Inicializa una variable (crea una variable y dale un valor) de tipo número real e imprimela por pantalla.
 
-Ejercicio resuelto  ---------------------  [SPOILER]
+Ejercicio resuelto  ---------------------  [SPOILER](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#2-)
 
 **3.-** Inicializa dos variables (de tipo número real) con identificadores `edad` y `altura`, e imprímerlas junto en el mensaje: Tengo `edad` años y mido `altura` cm.
 
-Ejercicio resuelto  ---------------------  [SPOILER]
+Ejercicio resuelto  ---------------------  [SPOILER](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#3-)
 
 **4.-** Inicializa cuatro variables, una de cada tipo de variable básico, e imprímelas todas en un mismo mensaje.
 
-Ejercicio resuelto  ---------------------  [SPOILER]
+Ejercicio resuelto  ---------------------  [SPOILER](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#4-)
 
 **5.-** Inicializa 2 variables de tipo número entero y súmalos en una tercera variable. Imprime en pantalla esta última.
 
-Ejercicio resuelto  ---------------------  [SPOILER]
+Ejercicio resuelto  ---------------------  [SPOILER](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#5-)
 
 **6.-** Inicializa una variable `radio` y calcula la circunferencia guardando el resultado en la variable `circunferencia`. 
 **Fórmula: 2 · п · radio**. A posteriori imprime en pantalla `circunferencia`
 
-Ejercicio resuelto  ---------------------  [SPOILER]
+Ejercicio resuelto  ---------------------  [SPOILER](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#6-)
 
 **7.-** Inicializa una variable `radio` y calcula el área de un círculo guardando el resultado en la variable `area`. **Fórmula: п · radio · radio**. A posteriori imprime en pantalla `area`
 
-Ejercicio resuelto  ---------------------  [SPOILER]
+Ejercicio resuelto  ---------------------  [SPOILER](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#7-)
 
 **8.-** Convierte una variable con identificador `latitud` de tipo **cadena de caracteres** y con valor -234.62 a tipo número real. Réstale a la variable el valor 21.34 e imprime finalmente dicha variable.
 
-Ejercicio resuelto  ---------------------  [SPOILER]
+Ejercicio resuelto  ---------------------  [SPOILER](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#8-)
 
 **9.-** Inicializa una variable `celsius`, calcula su equivalente a grados Fahrenheit guardando el resultado en la variable `fahrenheit` e ímprimelo por pantalla. **Fórmula: fahrenheit = (celsius * 1.8) + 32**.
 
-Ejercicio resuelto  ---------------------  [SPOILER]
+Ejercicio resuelto  ---------------------  [SPOILER](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#9-)
 
 **10.-** Inicializa una variable `fahrenheit`, calcula su equivalente a grados Celsius guardando el resultado en la variable `celsius` e ímprimelo por pantalla. **Fórmula: celsius = (fahrenheit - 32) / 1.8**.
 
-Ejercicio resuelto  ---------------------  [SPOILER]
+Ejercicio resuelto  ---------------------  [SPOILER](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#10-)
 
 
 ---
