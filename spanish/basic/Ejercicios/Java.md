@@ -68,7 +68,7 @@ Ejercicio resuelto  ---------------------  [SPOILER](https://github.com/acruma/l
 ```Java
 public class Ejercicio1JAVA{
   public static void main(String[]args){
-  System.out.prinln("¡Hola, mundo!")
+  System.out.println("¡Hola, mundo!");
   }
 }
 ```
