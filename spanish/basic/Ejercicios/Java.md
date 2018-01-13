@@ -172,7 +172,7 @@ Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob
 
 ```Java
 public class Ejercicio4JAVA{
-  public static void main(String[]args){
+  public static void main(String[] args){
     int entero=1;
     double real=-10.10;
     String palabra="Java es facil";
@@ -245,8 +245,14 @@ Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob
 ---
 # Ejercicio 6.-
 
-```
-
+```Java
+public class Ejercicio6JAVA{
+  public static void main(String[] args){
+    int radio = 11;
+    double circunferencia = 2 * 3.14 * radio;
+    System.out.println(circunferencia);
+  }
+}
 ```
 
 
@@ -275,8 +281,14 @@ Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob
 ---
 # Ejercicio 7.-
 
-```
-
+```Java
+public class Ejercicio7JAVA{
+  public static void main(String[] args){
+    int radio = 10;
+    double area = 3.14 * radio * radio;
+    System.out.println(area);
+  }
+}
 ```
 
 Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#ejercicios-basicos-resueltos)
@@ -304,8 +316,14 @@ Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob
 ---
 # Ejercicio 8.-
 
-```
-
+```Java
+public class Ejercicio8JAVA{
+  public static void main(String[] args){
+    String latitud="-234.62";
+    double latitud2= Double.parseDouble(latitud) -21.34;
+    System.out.println(latitud2);
+  }
+}
 ```
 
 Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#ejercicios-basicos-resueltos)
