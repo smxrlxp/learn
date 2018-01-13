@@ -37,9 +37,9 @@ public static void main(String[] args){
 	
  //Tipos básicos de variables
  
-int edad = 34; 				 	//"Integer" (numeros enteros)
-double recorrido = 132.23;   	//"Double"	(numeros reales)
-String nombre = "Acruma";    	//"String"	(cadena de caracteres)
+int edad = 34; 			//"Integer" (numeros enteros)
+double recorrido = 132.23;   	//"Double"  (numeros reales)
+String nombre = "Acruma";    	//"String"  (cadena de caracteres)
 boolean	comparativas = true; 	//"Boolean" (valores "true" o "false")
 
 //-------------------------------------------------------------------------------------------------------------------- 
@@ -49,11 +49,12 @@ boolean	comparativas = true; 	//"Boolean" (valores "true" o "false")
  //Mostrar variables en pantalla -- "System.out.println( VALOR A MOSTRAR );
  
 System.out.println("Esto es una frase"); //Se mostrará en pantalla "Esto es una frase"
-System.out.println(edad);				 //Se mostrará en pantalla la variable "edad"
+System.out.println(edad);		 //Se mostrará en pantalla la variable "edad"
 
  //Concatenación de variables y/o texto, se hace mediante un "+"
 
-System.out.println(edad + " " + nombre); //Se mostrará en pantalla la variable "edad" seguido de un espacio " " y la variable "nombre"
+System.out.println(edad + " " + nombre); 
+ //Se mostrará en pantalla la variable "edad" seguido de un espacio " " y la variable "nombre"
 
 //-------------------------------------------------------------------------------------------------------------------- 
 
@@ -94,7 +95,7 @@ System.out.println(c); //Mostrará el ultimo valor que le asignamos >>> "(50 - a
 
 String texto1 = "Hola, ";
 String texto2 = "soy Acruma";
-String texto_concatenado = texto1 + texto2;							//Concatenación Resultado: "Hola, soy Acruma".
+String texto_concatenado = texto1 + texto2;				//Concatenación Resultado: "Hola, soy Acruma".
 
 texto_concatenado = new String(new char[2]).replace("\0", texto1); 	//Repetición    Resultado: "Hola, Hola, ".
 
@@ -112,13 +113,13 @@ System.out.println(texto_concatenado);
  //En primer lugar debemos saber que tipo de dato queremos convertir. 
  
  //Para ello, mostramos en pantalla que tipo tiene la variable (numero, por ejemplo)
- System.out.println(((Object) numero).getClass().getName());  			//Nos devolverá "java.lang.String" - "String" sería el tipo de dato
- double numero_convertido = Double.parseDouble(numero);		  			//Convertimos "String" a tipo de dato "Double"
+ System.out.println(((Object) numero).getClass().getName());  		//Nos devolverá "java.lang.String" - Dato "String"
+ double numero_convertido = Double.parseDouble(numero);		  	//Convertimos "String" a tipo de dato "Double"
  System.out.println(((Object) numero_convertido).getClass().getName()); //Nos devuelve "java.lang.Double"
  
  //Para ello, mostramos en pantalla que tipo tiene la variable (texto, por ejemplo)
- System.out.println(((Object) texto).getClass().getName());  			//Nos devolverá "java.lang.Double" - "Double" sería el tipo de dato
- String texto_convertido = String.valueOf(texto);		  			    //Convertimos "Double" a tipo de dato "String"
+ System.out.println(((Object) texto).getClass().getName());  		//Nos devolverá "java.lang.Double" - Dato "Double"
+ String texto_convertido = String.valueOf(texto);		  	//Convertimos "Double" a tipo de dato "String"
  System.out.println(((Object) texto_convertido).getClass().getName());  //Nos devuelve "java.lang.String"
  
 //-------------------------------------------------------------------------------------------------------------------- 
