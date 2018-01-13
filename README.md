@@ -1,18 +1,25 @@
 # Learn Bash, Java, PHP, PowerShell, Python  
 
-[Niveles / Levels]()
-[Tutorial]()
-[Ejercicios / Exercises]()
+[Niveles / Levels](https://github.com/acruma/learn/blob/master/README.md#niveles--levels)
+
+[Tutorial](https://github.com/acruma/learn/blob/master/README.md#tutorial)
+
+[Ejercicios / Exercises](https://github.com/acruma/learn/blob/master/README.md#ejercicios--exercises)
 
 # Niveles / Levels
 
 #### Basic;
 
 Inicialización de documento.                            / How to create a document
+
 Variables. ( Tipos básicos )                            / Basic Data Types
+
 Impresion en pantalla.                                  / Print on screen
+
 Operaciones. ( Aritméticas y con cadena de caracteres ) / BASIC OPERATIONS WITH STRINGS AND NUMBERS. 
+
 Conversiones de tipo de datos.                          / DATA TYPE CONVERSION
+
 ...En proceso...
 
 #### Advanced;
