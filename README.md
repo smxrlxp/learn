@@ -8,7 +8,7 @@
 
 # Niveles / Levels
 
-#### Basic;
+#### *Basic*;
 
 Inicialización de documento.                            / How to create a document
 
@@ -22,7 +22,7 @@ Conversiones de tipo de datos.                          / DATA TYPE CONVERSION
 
 ...En proceso...
 
-#### Advanced;
+#### *Advanced*;
 
 ...En proceso...
 
