@@ -69,8 +69,8 @@ Ejercicio resuelto  ---------------------  [SPOILER](https://github.com/acruma/l
 
 ```Java
 public class Ejercicio1JAVA{
-  public static void main(String[]args){
-  System.out.println("¡Hola, mundo!");
+  public static void main(String[] args){
+    System.out.println("¡Hola, mundo!");
   }
 }
 ```
@@ -101,7 +101,12 @@ Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob
 # Ejercicio 2.-
 
 ```
-
+public class Ejercicio2JAVA{
+	public static void main(String[] args){
+	  double numero_real = -123.3;
+	  System.out.println(numero_real);
+	}
+}
 ```
 
 Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#ejercicios-basicos-resueltos)
@@ -130,7 +135,13 @@ Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob
 # Ejercicio 3.-
 
 ```
-
+public class Ejercicio3JAVA{
+	public static void main(String[] args){
+		int edad = 26;
+		int altura = 183;
+		System.out.println("Tengo " + edad + " años y mido " + altura + " cm.");
+	}
+}
 ```
 
 Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#ejercicios-basicos-resueltos)
