@@ -67,14 +67,14 @@ System.out.println(edad + " " + nombre);
  int b = 5;
  double c = 0; //Esta variable es un "numero real" por si acaba teniendo decimales (suele ocurrir en divisiones)
  
- c = a + b;		//Suma 									Resultado: 8.
- c = a - b;		//Resta									Resultado: -2.
- c = a * b;		//Multiplicación						Resultado: 15.
- c = a / b;		//Division								Resultado: 0.6.
+ c = a + b;		//Suma 						Resultado: 8.
+ c = a - b;		//Resta						Resultado: -2.
+ c = a * b;		//Multiplicación				Resultado: 15.
+ c = a / b;		//Division					Resultado: 0.6.
  c = a % b;		//Modulo (El resto de la division)		Resultado: 2.
  
- c = c + 1;		//Incremento de valor en 1.				Resultado: 4.
- c = c - 1;		//Decremento de valor en 1.				Resultado: 2.
+ c = c + 1;		//Incremento de valor en 1.			Resultado: 4.
+ c = c - 1;		//Decremento de valor en 1.			Resultado: 2.
  
  //El orden de las operaciones se realizan como en matemáticas
  
