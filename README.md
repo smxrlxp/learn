@@ -10,7 +10,7 @@
 
 #### *Basic*;
 
-Inicialización de documento.                            / How to create a document
+Inicialización de documento.                            / How to start a document
 
 Variables. ( Tipos básicos )                            / Basic Data Types
 
