@@ -1,12 +1,12 @@
 # Ejercicios basicos resueltos.  
 
-**1.** Imprima en pantalla la cadena de caracteres "!Hola, mundo¡" .
+*1.-* Imprima en pantalla la cadena de caracteres "!Hola, mundo¡" .
 
 
-**2.** Inicializa una variable (crea una variable y dale un valor) de tipo número real e imprimela por pantalla.
+**2.-** Inicializa una variable (crea una variable y dale un valor) de tipo número real e imprimela por pantalla.
 
 
-**3.** Inicializa dos variables (de tipo número real) con identificadores `edad` y `altura`, e imprímerlas junto en el mensaje: Tengo `edad` años y mido `altura` cm.
+**3.-** Inicializa dos variables (de tipo número real) con identificadores `edad` y `altura`, e imprímerlas junto en el mensaje: Tengo `edad` años y mido `altura` cm.
 
 
 **4.-** Inicializa cuatro variables, una de cada tipo de variable básico, e imprímelas todas en un mismo mensaje.
