@@ -16,15 +16,15 @@ Variables. ( Tipos básicos )                            / Basic Data Types
 
 Impresion en pantalla.                                  / Print on screen
 
-Operaciones. ( Aritméticas y con cadena de caracteres ) / BASIC OPERATIONS WITH STRINGS AND NUMBERS. 
+Operaciones. ( Aritméticas y con cadena de caracteres ) / Basic operations with Strings and Numbers. 
 
-Conversiones de tipo de datos.                          / DATA TYPE CONVERSION
+Conversiones de tipo de datos.                          / Data type conversion
 
-...En proceso...
+...En proceso... / ...In process...
 
 #### *Advanced*;
 
-...En proceso...
+...En proceso... / ...In process...
 
 # Tutorial;  
 
