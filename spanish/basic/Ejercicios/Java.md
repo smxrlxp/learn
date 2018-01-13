@@ -8,7 +8,7 @@ Ejercicio resuelto  ---------------------  [SPOILER](https://github.com/acruma/l
 
 Ejercicio resuelto  ---------------------  [SPOILER](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#ejercicio-2-)
 
-**3.-** Inicializa dos variables (de tipo número real) con identificadores `edad` y `altura`, e imprímerlas junto en el mensaje: Tengo `edad` años y mido `altura` cm.
+**3.-** Inicializa dos variables (de tipo número entero) con identificadores `edad` y `altura`, e imprímerlas junto en el mensaje: Tengo `edad` años y mido `altura` cm.
 
 Ejercicio resuelto  ---------------------  [SPOILER](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#ejercicio-3-)
 
@@ -139,7 +139,7 @@ Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob
 ---
 # Ejercicio 3.-
 
-Inicializa dos variables (de tipo número real) con identificadores `edad` y `altura`, e imprímerlas junto en el mensaje: Tengo `edad` años y mido `altura` cm.
+Inicializa dos variables (de tipo número entero) con identificadores `edad` y `altura`, e imprímerlas junto en el mensaje: Tengo `edad` años y mido `altura` cm.
 
 ```Java
 public class Ejercicio3JAVA{
