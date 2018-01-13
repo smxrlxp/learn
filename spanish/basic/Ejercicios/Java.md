@@ -12,7 +12,8 @@ Ejercicio resuelto  ---------------------  [SPOILER](https://github.com/acruma/l
 
 Ejercicio resuelto  ---------------------  [SPOILER](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#ejercicio-3-)
 
-**4.-** Inicializa cuatro variables, una de cada tipo de variable básico, e imprímelas todas en un mismo mensaje.
+**4.-** Inicializa cuatro variables, una de cada tipo de variable básico, e imprímelas todas en un mismo mensaje indicando cual es cual.
+> Opcional - Cada una debe aparecer en una línea distinta (consejo usa \n).
 
 Ejercicio resuelto  ---------------------  [SPOILER](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#ejercicio-4-)
 
@@ -100,12 +101,12 @@ Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob
 ---
 # Ejercicio 2.-
 
-```
+```Java
 public class Ejercicio2JAVA{
-	public static void main(String[] args){
-	  double numero_real = -123.3;
-	  System.out.println(numero_real);
-	}
+  public static void main(String[] args){
+    double numero_real = -123.3;
+    System.out.println(numero_real);
+  }
 }
 ```
 
@@ -134,13 +135,13 @@ Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob
 ---
 # Ejercicio 3.-
 
-```
+```Java
 public class Ejercicio3JAVA{
-	public static void main(String[] args){
-		int edad = 26;
-		int altura = 183;
-		System.out.println("Tengo " + edad + " años y mido " + altura + " cm.");
-	}
+  public static void main(String[] args){
+    int edad = 26;
+    int altura = 183;
+    System.out.println("Tengo " + edad + " años y mido " + altura + " cm.");
+  }
 }
 ```
 
@@ -169,8 +170,16 @@ Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob
 ---
 # Ejercicio 4.-
 
-```
-
+```Java
+public class Ejercicio4JAVA{
+  public static void main(String[]args){
+    int entero=1;
+    double real=-10.10;
+    String palabra="Java es facil";
+    boolean comparativa=true;
+    System.out.println("Este es un número entero: " + entero + ".\nEste es un numero real: " + real + ".\nEsto es una cadena de caracteres: " + palabra + ".\nEsto es un boleano: " + comparativa + ".");
+  }
+}
 ```
 
 
@@ -199,8 +208,15 @@ Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob
 ---
 # Ejercicio 5.-
 
-```
-
+```Java
+public class Ejercicio5JAVA{
+  public static void main(String[] args){
+    int a = 1;
+    int b = 10;
+    int c = a + b;
+    System.out.println(c);	
+  }	
+}
 ```
 
 
