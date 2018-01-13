@@ -1,4 +1,4 @@
-# Ejercicios basicos resueltos.  
+# Ejercicios básicos resueltos.  
 
 **1.-** Imprima en pantalla la cadena de caracteres "¡Hola, mundo!" .
 
