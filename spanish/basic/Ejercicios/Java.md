@@ -372,7 +372,13 @@ Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob
 Inicializa una variable `celsius`, calcula su equivalente a grados Fahrenheit guardando el resultado en la variable `fahrenheit` e ímprimelo por pantalla. **Fórmula: fahrenheit = (celsius * 1.8) + 32**.
 
 ```Java
-
+public class Ejercicio9JAVA{
+  public static void main(String[] args){
+    double celsius = 23;
+    double fahrenheit = (celsius * 1.8) + 32;
+    System.out.println(fahrenheit);
+  }
+}
 ```
 
 Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#ejercicios-basicos-resueltos)
@@ -403,7 +409,13 @@ Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob
 Inicializa una variable `fahrenheit`, calcula su equivalente a grados Celsius guardando el resultado en la variable `celsius` e ímprimelo por pantalla. **Fórmula: celsius = (fahrenheit - 32) / 1.8**.
 
 ```Java
-
+public class Ejercicio10JAVA{
+  public static void main(String[] args){
+    double fahrenheit = 73.4;
+    double celsius = (fahrenheit - 32) / 1.8;
+    System.out.println(celsius);
+  }
+}
 ```
 
 Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#ejercicios-basicos-resueltos)
