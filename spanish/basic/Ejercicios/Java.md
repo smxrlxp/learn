@@ -61,6 +61,8 @@ public class Ejercicio1JAVA{
   }
 }
 ```
+Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#ejercicios-basicos-resueltos)
+
 ---
 ---
 ---
