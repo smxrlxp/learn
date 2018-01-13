@@ -68,6 +68,8 @@ Ejercicio resuelto  ---------------------  [SPOILER](https://github.com/acruma/l
 ---
 # Ejercicio 1.-
 
+Imprima en pantalla la cadena de caracteres "¡Hola, mundo!" .
+
 ```Java
 public class Ejercicio1JAVA{
   public static void main(String[] args){
@@ -100,6 +102,8 @@ Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob
 ---
 ---
 # Ejercicio 2.-
+
+Inicializa una variable (crea una variable y dale un valor) de tipo número real e imprimela por pantalla.
 
 ```Java
 public class Ejercicio2JAVA{
@@ -135,6 +139,8 @@ Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob
 ---
 # Ejercicio 3.-
 
+Inicializa dos variables (de tipo número real) con identificadores `edad` y `altura`, e imprímerlas junto en el mensaje: Tengo `edad` años y mido `altura` cm.
+
 ```Java
 public class Ejercicio3JAVA{
   public static void main(String[] args){
@@ -169,6 +175,9 @@ Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob
 ---
 ---
 # Ejercicio 4.-
+
+Inicializa cuatro variables, una de cada tipo de variable básico, e imprímelas todas en un mismo mensaje indicando cual es cual.
+> Opcional - Cada una debe aparecer en una línea distinta (consejo usa \n).
 
 ```Java
 public class Ejercicio4JAVA{
@@ -208,6 +217,8 @@ Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob
 ---
 # Ejercicio 5.-
 
+Inicializa 2 variables de tipo número entero y súmalos en una tercera variable. Imprime en pantalla esta última.
+
 ```Java
 public class Ejercicio5JAVA{
   public static void main(String[] args){
@@ -245,6 +256,9 @@ Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob
 ---
 # Ejercicio 6.-
 
+Inicializa una variable `radio` y calcula la circunferencia guardando el resultado en la variable `circunferencia`. 
+**Fórmula: 2 · п · radio**. A posteriori imprime en pantalla `circunferencia`
+
 ```Java
 public class Ejercicio6JAVA{
   public static void main(String[] args){
@@ -281,6 +295,8 @@ Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob
 ---
 # Ejercicio 7.-
 
+Inicializa una variable `radio` y calcula el área de un círculo guardando el resultado en la variable `area`. **Fórmula: п · radio · radio**. A posteriori imprime en pantalla `area`
+
 ```Java
 public class Ejercicio7JAVA{
   public static void main(String[] args){
@@ -315,6 +331,8 @@ Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob
 ---
 ---
 # Ejercicio 8.-
+
+Convierte una variable con identificador `latitud` de tipo **cadena de caracteres** y con valor -234.62 a tipo número real. Réstale a la variable el valor 21.34 e imprime finalmente dicha variable.
 
 ```Java
 public class Ejercicio8JAVA{
@@ -351,7 +369,9 @@ Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob
 ---
 # Ejercicio 9.-
 
-```
+Inicializa una variable `celsius`, calcula su equivalente a grados Fahrenheit guardando el resultado en la variable `fahrenheit` e ímprimelo por pantalla. **Fórmula: fahrenheit = (celsius * 1.8) + 32**.
+
+```Java
 
 ```
 
@@ -380,7 +400,9 @@ Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob
 ---
 # Ejercicio 10.-
 
-```
+Inicializa una variable `fahrenheit`, calcula su equivalente a grados Celsius guardando el resultado en la variable `celsius` e ímprimelo por pantalla. **Fórmula: celsius = (fahrenheit - 32) / 1.8**.
+
+```Java
 
 ```
 
