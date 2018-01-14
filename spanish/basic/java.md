@@ -2,10 +2,10 @@
  
  ## Índice
  
- [Comentarios](https://github.com/acruma/learn/blob/master/spanish/basic/java.md#comentarios)
- 
  [Creación e iniciación del documento](https://github.com/acruma/learn/blob/master/spanish/basic/java.md#creaci%C3%B3n-e-iniciaci%C3%B3n-del-documento)
  
+ [Comentarios](https://github.com/acruma/learn/blob/master/spanish/basic/java.md#comentarios)
+  
  [Variables](https://github.com/acruma/learn/blob/master/spanish/basic/java.md#variables)
  
  [Impresiones en pantalla](https://github.com/acruma/learn/blob/master/spanish/basic/java.md#impresiones-en-pantalla)
@@ -20,24 +20,7 @@
  
  ---
  ---
- 
- ### Comentarios;
- 
- Podemos escribir un comentario en una única linea o en múltiples lineas.
- 
- ```Java
- //Esto es un comentario
-
-/*
- Esto es un comentario
- en múltiples líneas 
-*/
- ```
- 
- >NOTA IMPORTANTE: Debemos tener cuidado, ya que JAVA es Case Sensitive es decir distingue mayúsculas y minúsculas.
- 
- ---
- 
+  
  ### Creación e iniciación del documento
  
  Para crear un documento java el nombre de extension debe ser `.java` y al finalizarlo se a de compilar.
@@ -69,6 +52,23 @@ public static void main(String[] args){
  
  >NOTA IMPORTANTE; Al final de cada linea de codigo dentro de las funciones, deben acabar en ; (punto y coma)
 
+---
+
+ ### Comentarios;
+ 
+ Podemos escribir un comentario en una única linea o en múltiples lineas.
+ 
+ ```Java
+ //Esto es un comentario
+
+/*
+ Esto es un comentario
+ en múltiples líneas 
+*/
+ ```
+ 
+ >NOTA IMPORTANTE: Debemos tener cuidado, ya que JAVA es Case Sensitive es decir distingue mayúsculas y minúsculas.
+ 
 ---
 
 ### Variables
