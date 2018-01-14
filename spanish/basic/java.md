@@ -1,3 +1,22 @@
+ # Aprenda conceptos básicos en JAVA
+ 
+ ## Índice
+ 
+ [Comentarios](https://github.com/acruma/learn/blob/master/spanish/basic/java.md#comentarios)
+ 
+ [Creación e iniciación del documento](https://github.com/acruma/learn/blob/master/spanish/basic/java.md#creaci%C3%B3n-e-iniciaci%C3%B3n-del-documento)
+ 
+ [Variables](https://github.com/acruma/learn/blob/master/spanish/basic/java.md#variables)
+ 
+ [Impresiones en pantalla](https://github.com/acruma/learn/blob/master/spanish/basic/java.md#impresiones-en-pantalla)
+ 
+ [Operaciones aritméticas con números](https://github.com/acruma/learn/blob/master/spanish/basic/java.md#operaciones-aritm%C3%A9ticas-con-n%C3%BAmeros)
+ 
+ [Operaciones con String (cadenas de caracteres)](https://github.com/acruma/learn/blob/master/spanish/basic/java.md#operaciones-con-string-cadenas-de-caracteres)
+ 
+ [Conversiones de Tipos de Datos](https://github.com/acruma/learn/blob/master/spanish/basic/java.md#conversiones-de-tipos-de-datos)
+ 
+ [Documento completo](https://github.com/acruma/learn/blob/master/spanish/basic/java.md#documento-completo)
  
  ### Comentarios;
  
@@ -19,7 +38,9 @@
  
  Para crear un documento java el nombre de extension debe ser `.java`
  
- En primer paso, debemos crear una "class" ( clase ). Con el nombre que le asignemos al archivo. (DEBE EMPEZAR POR LETRA) EJ:
+ En primer paso, debemos crear una "class" ( clase ). Con el nombre que le asignemos al archivo. 
+ 
+ > NOTA IMPORTANTE: Debe empezar por una letra.
 
  Este archivo se llama "java"
 ```Java
@@ -92,7 +113,7 @@ System.out.println(edad + " " + nombre);
  
  Como ejemplo, creamos 3 variables.
  
- ```
+ ```Java
  int a = 3;
  int b = 5;
  double c = 0; //Esta variable es un "numero real" por si acaba teniendo decimales (suele ocurrir en divisiones)
@@ -145,17 +166,31 @@ System.out.println(texto_concatenado);
  
  Para ello, mostramos en pantalla que tipo tiene la variable (numero, por ejemplo)
  ```Java
- System.out.println(((Object) numero).getClass().getName());  		//Nos devolverá "java.lang.String" - Dato "String"
- double numero_convertido = Double.parseDouble(numero);		  	//Convertimos "String" a tipo de dato "Double"
+ System.out.println(((Object) numero).getClass().getName());  		
+ ```
+ >Nos devolverá "java.lang.String" - Dato "String"
+ 
+ A continuación convertimos "String" a tipo de dato "Double" (en otra variable) y comprobamos de nuevo el tipo de variable
+ ```Java
+ double numero_convertido = Double.parseDouble(numero);		  	
  System.out.println(((Object) numero_convertido).getClass().getName()); //Nos devuelve "java.lang.Double"
  ```
+  >Nos devolverá "java.lang.Double" - Dato "Double"
  
  Para ello, mostramos en pantalla que tipo tiene la variable (texto, por ejemplo)
  ```Java
- System.out.println(((Object) texto).getClass().getName());  		//Nos devolverá "java.lang.Double" - Dato "Double"
- String texto_convertido = String.valueOf(texto);		  	//Convertimos "Double" a tipo de dato "String"
- System.out.println(((Object) texto_convertido).getClass().getName());  //Nos devuelve "java.lang.String"
+ System.out.println(((Object) texto).getClass().getName());  		//
+ ``` 
+ 
+ >Nos devolverá "java.lang.Double" - Dato "Double"
+ 
+ A continuación convertimos "Double" a tipo de dato "String" (en otra variable) y comprobamos de nuevo el tipo de variable
+
+```Java
+ String texto_convertido = String.valueOf(texto);
+ System.out.println(((Object) texto_convertido).getClass().getName()); 
  ```
+ >Nos devolverá "java.lang.String" - Dato "String"
  
  ### Documento completo
  
