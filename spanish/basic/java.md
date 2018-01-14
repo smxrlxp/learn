@@ -81,7 +81,7 @@ public static void main(String[] args){
 // tipo_dato identificador = valor  ;     (EJ;)
       int       altura     =  100   ;     //El valor "100" se le asigna a la variable "altura"	
 ```
-//Tipos básicos de variables
+Tipos básicos de variables
 
 ```Java
 int edad = 34; 			//"Integer" (numeros enteros)
