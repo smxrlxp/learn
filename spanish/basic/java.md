@@ -151,12 +151,18 @@ System.out.println(c); //Mostrará el ultimo valor que le asignamos >>> "(50 - a
 ```Java
 String texto1 = "Hola, ";
 String texto2 = "soy Acruma";
-String texto_concatenado = texto1 + texto2;				//Concatenación Resultado: "Hola, soy Acruma".
-
-texto_concatenado = new String(new char[2]).replace("\0", texto1); 	//Repetición    Resultado: "Hola, Hola, ".
+String texto_concatenado = texto1 + texto2;
 
 System.out.println(texto_concatenado);
+``` 
+Concatenación Resultado: "Hola, soy Acruma".
+
+```Java
+texto_concatenado = new String(new char[2]).replace("\0", texto1); 
+System.out.println(texto_concatenado);
 ```
+Repetición    Resultado: "Hola, Hola, ".
+
 ---
 
 ### Conversiones de Tipos de Datos
@@ -176,13 +182,13 @@ System.out.println(texto_concatenado);
  A continuación convertimos "String" a tipo de dato "Double" (en otra variable) y comprobamos de nuevo el tipo de variable
  ```Java
  double numero_convertido = Double.parseDouble(numero);		  	
- System.out.println(((Object) numero_convertido).getClass().getName()); //Nos devuelve "java.lang.Double"
+ System.out.println(((Object) numero_convertido).getClass().getName());
  ```
   >Nos devolverá "java.lang.Double" - Dato "Double"
  
  Para ello, mostramos en pantalla que tipo tiene la variable (texto, por ejemplo)
  ```Java
- System.out.println(((Object) texto).getClass().getName());  		//
+ System.out.println(((Object) texto).getClass().getName()); 
  ``` 
  
  >Nos devolverá "java.lang.Double" - Dato "Double"
