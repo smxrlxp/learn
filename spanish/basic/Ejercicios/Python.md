@@ -104,6 +104,8 @@ Inicializa una variable (crea una variable y dale un valor) de tipo número real
 
 ```Python
 
+x = +123.2
+print (x)
 
 ```
 
@@ -136,6 +138,9 @@ Inicializa dos variables (de tipo número entero) con identificadores `edad` y `
 
 ```Python
 
+edad = 26
+altura = 183
+print("Tengo" , edad , 'años y mido' , altura , 'cm.')
 
 ```
 
@@ -169,6 +174,11 @@ Inicializa cuatro variables, una de cada tipo de variable básico, e imprímelas
 
 ```Python
 
+integer = 10
+double = -10.10
+string = "Acruma"
+bol = True
+print(integer , "\n" , double , "\n" , string , "\n" , bol)
 
 ```
 
@@ -202,6 +212,10 @@ Inicializa 2 variables de tipo número entero y súmalos en una tercera variable
 
 ```Python
 
+x = 1
+y = 10
+z = x + y
+print(z)
 
 ```
 
@@ -236,6 +250,9 @@ Inicializa una variable `radio` y calcula la circunferencia guardando el resulta
 
 ```Python
 
+radio = 11
+circunferencia = 2 * 3.14 * radio
+print(circunferencia)
 
 ```
 
@@ -269,6 +286,9 @@ Inicializa una variable `radio` y calcula el área de un círculo guardando el r
 
 ```Python
 
+radio = 10
+area = 3.14 * radio * radio
+print(area)
 
 ```
 
@@ -301,6 +321,9 @@ Convierte una variable con identificador `latitud` de tipo **cadena de caractere
 
 ```Python
 
+latitud = "-234.62"
+latitud = float(latitud) - 21.34
+print(latitud)
 
 ```
 
