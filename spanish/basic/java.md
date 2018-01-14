@@ -192,6 +192,8 @@ System.out.println(texto_concatenado);
  ```
  >Nos devolverá "java.lang.String" - Dato "String"
  
+ ---
+ 
  ### Documento completo
  
  A continuación puede copiar todo el codigo y volcarlo en un archivo llamado `java.java`, para poder ejecutar y ver cada una de las impresiones vistas en el tutorial. O incluso para editarlo a voluntad
@@ -327,3 +329,7 @@ System.out.println(texto_concatenado);
 	}
 
  ```
+
+---
+
+By @acruma
