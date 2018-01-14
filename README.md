@@ -46,4 +46,4 @@ Documento completo ( DIY - Hazlo tu mismo )             / Full document ( DIY - 
 ### *Java*; Spanish [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md)/Advanced // English in process
 ### *PHP*; Spanish en proceso  // English in process
 ### *PowerShell*; Spanish en proceso  // English in process
-### *Python*; Spanish en proceso  // English in process
+### *Python*; Spanish [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Python.md)/Advanced  // English in process
