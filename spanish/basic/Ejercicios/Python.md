@@ -72,6 +72,7 @@ Imprima en pantalla la cadena de caracteres "¡Hola, mundo!" .
 
 ```Python
 
+print("¡Hola, mundo!")
 
 ```
 
@@ -356,6 +357,9 @@ Inicializa una variable `celsius`, calcula su equivalente a grados Fahrenheit gu
 
 ```Python
 
+celsius = 23
+fahrenheit = (celsius * 1.8) + 32
+print(fahrenheit)
 
 ```
 
@@ -387,6 +391,10 @@ Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob
 Inicializa una variable `fahrenheit`, calcula su equivalente a grados Celsius guardando el resultado en la variable `celsius` e ímprimelo por pantalla. **Fórmula: celsius = (fahrenheit - 32) / 1.8**.
 
 ```Python
+
+fahrenheit = 73.4
+celsius = (fahrenheit -32 ) / 1.8
+print(celsius)
 
 ```
 
