@@ -39,7 +39,7 @@
  
  ### Creación e iniciación del documento
  
- Para crear un documento java el nombre de extension debe ser `.java`
+ Para crear un documento java el nombre de extension debe ser `.java` y al finalizarlo se a de compilar.
  
  En primer paso, debemos crear una "class" ( clase ). Con el nombre que le asignemos al archivo. 
  
