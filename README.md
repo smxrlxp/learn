@@ -12,6 +12,8 @@
 
 Inicialización de documento.                            / How to start a document
 
+Comentarios.                                            / Comments
+
 Variables. ( Tipos básicos )                            / Basic Data Types
 
 Impresion en pantalla.                                  / Print on screen
@@ -19,6 +21,8 @@ Impresion en pantalla.                                  / Print on screen
 Operaciones. ( Aritméticas y con cadena de caracteres ) / Basic operations with Strings and Numbers. 
 
 Conversiones de tipo de datos.                          / Data type conversion
+
+Documento completo ( DIY - Hazlo tu mismo )             / Full document ( DIY - Do it yourself )
 
 ...En proceso... / ...In process...
 
