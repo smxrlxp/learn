@@ -1,6 +1,6 @@
 # Ejercicios básicos resueltos.  
 
-**1.-** Imprima en pantalla la cadena de caracteres "¡Hola, mundo!" .
+*1.-* Imprima en pantalla la cadena de caracteres "¡Hola, mundo!" .
 
 Ejercicio resuelto  ---------------------  [SPOILER](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#ejercicio-1-)
 
