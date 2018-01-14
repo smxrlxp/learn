@@ -29,7 +29,7 @@ Conversiones de tipo de datos.                          / Data type conversion
 # Tutorial;  
 
 ### *Bash* ; Spanish en proceso  // English in process
-### *Java*; Spanish [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/java.java)/Advanced // English in process
+### *Java*; Spanish [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/java.md)/Advanced // English in process
 ### *PHP*; Spanish en proceso  // English in process
 ### *PowerShell*; Spanish en proceso  // English in process
 ### *Python*; Spanish en proceso  // English in process  
