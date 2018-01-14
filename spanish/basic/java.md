@@ -33,7 +33,8 @@
  en múltiples líneas 
 */
  ```
- NOTA IMPORTANTE: Debemos tener cuidado, ya que JAVA es Case Sensitive es decir distingue mayúsculas y minúsculas.
+ 
+ >NOTA IMPORTANTE: Debemos tener cuidado, ya que JAVA es Case Sensitive es decir distingue mayúsculas y minúsculas.
  
  ---
  
