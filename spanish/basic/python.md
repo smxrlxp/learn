@@ -1,22 +1,22 @@
- # Aprenda conceptos básicos en JAVA
+ # Aprenda conceptos básicos en PYTHON
  
  ## Índice
  
- [Creación e iniciación del documento](https://github.com/acruma/learn/blob/master/spanish/basic/java.md#creaci%C3%B3n-e-iniciaci%C3%B3n-del-documento)
+ [Creación e iniciación del documento](https://github.com/acruma/learn/blob/master/spanish/basic/python.md#creaci%C3%B3n-e-iniciaci%C3%B3n-del-documento)
  
- [Comentarios](https://github.com/acruma/learn/blob/master/spanish/basic/java.md#comentarios)
+ [Comentarios](https://github.com/acruma/learn/blob/master/spanish/basic/python.md#comentarios)
   
- [Variables](https://github.com/acruma/learn/blob/master/spanish/basic/java.md#variables)
+ [Variables](https://github.com/acruma/learn/blob/master/spanish/basic/python.md#variables)
  
- [Impresiones en pantalla](https://github.com/acruma/learn/blob/master/spanish/basic/java.md#impresiones-en-pantalla)
+ [Impresiones en pantalla](https://github.com/acruma/learn/blob/master/spanish/basic/python.md#impresiones-en-pantalla)
  
- [Operaciones aritméticas con números](https://github.com/acruma/learn/blob/master/spanish/basic/java.md#operaciones-aritm%C3%A9ticas-con-n%C3%BAmeros)
+ [Operaciones aritméticas con números](https://github.com/acruma/learn/blob/master/spanish/basic/python.md#operaciones-aritm%C3%A9ticas-con-n%C3%BAmeros)
  
- [Operaciones con String (cadenas de caracteres)](https://github.com/acruma/learn/blob/master/spanish/basic/java.md#operaciones-con-string-cadenas-de-caracteres)
+ [Operaciones con String (cadenas de caracteres)](https://github.com/acruma/learn/blob/master/spanish/basic/python.md#operaciones-con-string-cadenas-de-caracteres)
  
- [Conversiones de Tipos de Datos](https://github.com/acruma/learn/blob/master/spanish/basic/java.md#conversiones-de-tipos-de-datos)
+ [Conversiones de Tipos de Datos](https://github.com/acruma/learn/blob/master/spanish/basic/python.md#conversiones-de-tipos-de-datos)
  
- [Documento completo](https://github.com/acruma/learn/blob/master/spanish/basic/java.md#documento-completo)
+ [Documento completo](https://github.com/acruma/learn/blob/master/spanish/basic/python.md#documento-completo)
  
  ---
  ---
