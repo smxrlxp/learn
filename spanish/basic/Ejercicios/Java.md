@@ -78,7 +78,7 @@ public class Ejercicio1JAVA{
 }
 ```
 
-Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#ejercicios-basicos-resueltos)
+Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#ejercicios-b%C3%A1sicos-resueltos)
 
 ---
 ---
@@ -114,7 +114,7 @@ public class Ejercicio2JAVA{
 }
 ```
 
-Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#ejercicios-basicos-resueltos)
+Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#ejercicios-b%C3%A1sicos-resueltos)
 
 ---
 ---
@@ -151,7 +151,7 @@ public class Ejercicio3JAVA{
 }
 ```
 
-Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#ejercicios-basicos-resueltos)
+Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#ejercicios-b%C3%A1sicos-resueltos)
 
 ---
 ---
@@ -192,7 +192,7 @@ public class Ejercicio4JAVA{
 ```
 
 
-Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#ejercicios-basicos-resueltos)
+Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#ejercicios-b%C3%A1sicos-resueltos)
 
 ---
 ---
@@ -231,7 +231,7 @@ public class Ejercicio5JAVA{
 ```
 
 
-Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#ejercicios-basicos-resueltos)
+Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#ejercicios-b%C3%A1sicos-resueltos)
 
 ---
 ---
@@ -270,7 +270,7 @@ public class Ejercicio6JAVA{
 ```
 
 
-Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#ejercicios-basicos-resueltos)
+Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#ejercicios-b%C3%A1sicos-resueltos)
 
 ---
 ---
@@ -307,7 +307,7 @@ public class Ejercicio7JAVA{
 }
 ```
 
-Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#ejercicios-basicos-resueltos)
+Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#ejercicios-b%C3%A1sicos-resueltos)
 
 ---
 ---
@@ -344,7 +344,7 @@ public class Ejercicio8JAVA{
 }
 ```
 
-Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#ejercicios-basicos-resueltos)
+Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#ejercicios-b%C3%A1sicos-resueltos)
 
 ---
 ---
@@ -381,7 +381,7 @@ public class Ejercicio9JAVA{
 }
 ```
 
-Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#ejercicios-basicos-resueltos)
+Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#ejercicios-b%C3%A1sicos-resueltos)
 
 ---
 ---
@@ -418,4 +418,4 @@ public class Ejercicio10JAVA{
 }
 ```
 
-Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#ejercicios-basicos-resueltos)
+Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#ejercicios-b%C3%A1sicos-resueltos)
