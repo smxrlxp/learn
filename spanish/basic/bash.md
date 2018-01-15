@@ -23,7 +23,7 @@
   
  ### Creación e iniciación del documento
  
- Para crear un documento en python el nombre de extension debe ser `.sh`.
+ Para crear un documento en bash el nombre de extension debe ser `.sh`.
  
  Se recomienda encarecidamente poner en la primera linea `#!/bin/bash` (para usar bash como shell predeterminada).
  
@@ -205,7 +205,7 @@ Como hemos indicado mas arriba, las variables en `BASH` son cadena de caracteres
 
  # Creación e iniciación del documento
  
- # Para crear un documento en python el nombre de extension debe ser `.sh`.
+ # Para crear un documento en bash el nombre de extension debe ser `.sh`.
  
  # Se recomienda encarecidamente poner en la primera linea `#!/bin/bash` (para usar bash como shell predeterminada).
  
