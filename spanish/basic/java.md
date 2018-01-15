@@ -149,6 +149,8 @@ System.out.println(c); //Mostrará el ultimo valor que le asignamos >>> "(50 - a
 
 ### Operaciones con String (cadenas de caracteres)
 
+Concatenación
+
 ```Java
 String texto1 = "Hola, ";
 String texto2 = "soy Acruma";
@@ -156,13 +158,15 @@ String texto_concatenado = texto1 + texto2;
 
 System.out.println(texto_concatenado);
 ``` 
-Concatenación Resultado: "Hola, soy Acruma".
+Resultado: "Hola, soy Acruma".
+
+Repetición
 
 ```Java
 texto_concatenado = new String(new char[2]).replace("\0", texto1); 
 System.out.println(texto_concatenado);
 ```
-Repetición    Resultado: "Hola, Hola, ".
+Resultado: "Hola, Hola, ".
 
 ---
 
