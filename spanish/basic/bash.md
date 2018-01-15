@@ -1,22 +1,22 @@
- # Aprenda conceptos básicos en bash
+ # Aprenda conceptos básicos en BASH
  
  ## Índice
  
- [Creación e iniciación del documento](https:#github.com/acruma/learn/blob/master/spanish/basic/bash.md#creaci%C3%B3n-e-iniciaci%C3%B3n-del-documento)
+ [Creación e iniciación del documento](https://github.com/acruma/learn/blob/master/spanish/basic/bash.md#creaci%C3%B3n-e-iniciaci%C3%B3n-del-documento)
  
- [Comentarios](https:#github.com/acruma/learn/blob/master/spanish/basic/bash.md#comentarios)
+ [Comentarios](https://github.com/acruma/learn/blob/master/spanish/basic/bash.md#comentarios)
   
- [Variables](https:#github.com/acruma/learn/blob/master/spanish/basic/bash.md#variables)
+ [Variables](https://github.com/acruma/learn/blob/master/spanish/basic/bash.md#variables)
  
- [Impresiones en pantalla](https:#github.com/acruma/learn/blob/master/spanish/basic/bash.md#impresiones-en-pantalla)
+ [Impresiones en pantalla](https://github.com/acruma/learn/blob/master/spanish/basic/bash.md#impresiones-en-pantalla)
  
- [Operaciones aritméticas con números](https:#github.com/acruma/learn/blob/master/spanish/basic/bash.md#operaciones-aritm%C3%A9ticas-con-n%C3%BAmeros)
+ [Operaciones aritméticas con números](https://github.com/acruma/learn/blob/master/spanish/basic/bash.md#operaciones-aritm%C3%A9ticas-con-n%C3%BAmeros)
  
- [Operaciones con String (cadenas de caracteres)](https:#github.com/acruma/learn/blob/master/spanish/basic/bash.md#operaciones-con-string-cadenas-de-caracteres)
+ [Operaciones con String (cadenas de caracteres)](https://github.com/acruma/learn/blob/master/spanish/basic/bash.md#operaciones-con-string-cadenas-de-caracteres)
  
- [Conversiones de Tipos de Datos](https:#github.com/acruma/learn/blob/master/spanish/basic/bash.md#conversiones-de-tipos-de-datos)
+ [Conversiones de Tipos de Datos](https://github.com/acruma/learn/blob/master/spanish/basic/bash.md#conversiones-de-tipos-de-datos)
  
- [Documento completo](https:#github.com/acruma/learn/blob/master/spanish/basic/bash.md#documento-completo)
+ [Documento completo](https://github.com/acruma/learn/blob/master/spanish/basic/bash.md#documento-completo)
  
  ---
  ---
