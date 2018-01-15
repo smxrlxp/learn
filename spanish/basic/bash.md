@@ -146,9 +146,9 @@ c=$(bc -l <<< "$a / $b")		#Division		Resultado: 0.6.
  
  ```bash
 
-c=$(bc -l <<< "50 - a  *  6 / -0.5")
-c=$(bc -l <<< "(50 - a) *  6 / -0.5")
-c=$(bc -l <<< "(50 - a) * (6 / -0.5)")
+c=$(bc -l <<< "50 - $a  *  6 / -0.5")
+c=$(bc -l <<< "(50 - $a) *  6 / -0.5")
+c=$(bc -l <<< "(50 - $a) * (6 / -0.5)")
 
  ```
 
@@ -296,9 +296,9 @@ c=$(bc -l <<< "$a / $b")		#Division					Resultado: 0.6.
 
  # El orden de las operaciones se realizan como en matemáticas. Adicionalmente para crear complejas ecuaciones usamos BC
  
-c=$(bc -l <<< "50 - a  *  6 / -0.5")
-c=$(bc -l <<< "(50 - a) *  6 / -0.5")
-c=$(bc -l <<< "(50 - a) * (6 / -0.5)")
+c=$(bc -l <<< "50 - $a  *  6 / -0.5")
+c=$(bc -l <<< "(50 - $a) *  6 / -0.5")
+c=$(bc -l <<< "(50 - $a) * (6 / -0.5)")
 
  # NOTA IMPORTANTE: Recuerda usar BC para ecuaciones.
 
