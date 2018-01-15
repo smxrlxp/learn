@@ -28,8 +28,6 @@ Conversiones de tipo de datos.                          / Data type conversion
 
 Documento completo ( DIY - Hazlo tu mismo )             / Full document ( DIY - Do it yourself )
 
-...En proceso... / ...In process...
-
 #### *Advanced*;
 
 ...En proceso... / ...In process...
@@ -39,7 +37,7 @@ Documento completo ( DIY - Hazlo tu mismo )             / Full document ( DIY - 
 ### *Bash* ; Spanish [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/bash.md) - Advanced  // English in process
 ### *Java*; Spanish [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/java.md) - Advanced // English in process
 ### *PHP*; Spanish [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/php.md) - Advanced  // English in process
-### *PowerShell*; Spanish en proceso  // English in process
+### *PowerShell*; [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/powershell.md) - Advanced // English in process
 ### *Python*; Spanish [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/python.md) - Advanced // English in process  
 
 ***
