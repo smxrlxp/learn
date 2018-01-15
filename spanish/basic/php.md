@@ -172,7 +172,7 @@ $texto1 = "Hola, ";
 $texto2 = "soy Acruma";
 $texto_concatenado = $texto1 . $texto2;
 
-echo ($texto_concatenado);
+echo $texto_concatenado;
 
  ``` 
 
@@ -182,8 +182,8 @@ Repetición
 
  ```php
 
-texto_concatenado = str_repeat($texto1, 2);
-print($texto_concatenado);
+$texto_concatenado = str_repeat($texto1, 2);
+echo $texto_concatenado;
  
  ```
 Resultado: "Hola, Hola, ".
