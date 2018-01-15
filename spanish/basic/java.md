@@ -27,7 +27,7 @@
  
  En primer paso, debemos crear una "class" ( clase ). Con el nombre que le asignemos al archivo. 
  
- > NOTA IMPORTANTE: Debe empezar por una letra.
+ > NOTA IMPORTANTE: Debe empezar por una letra. Debemos tener cuidado, ya que JAVA es Case Sensitive es decir distingue mayúsculas y minúsculas.
 
  Este archivo se llama "java"
 ```Java
@@ -50,7 +50,7 @@ public static void main(String[] args){
  ```
  En tutoriales más avanzados indicaremos que es una clase "class" y que es una función.
  
- >NOTA IMPORTANTE; Al final de cada linea de codigo dentro de las funciones, deben acabar en ; (punto y coma)
+ >NOTA IMPORTANTE; Al final de cada linea de codigo dentro de las funciones, deben acabar en ; (punto y coma) exceptuando los comentarios.
 
 ---
 
@@ -66,8 +66,7 @@ public static void main(String[] args){
  en múltiples líneas 
 */
  ```
- 
- >NOTA IMPORTANTE: Debemos tener cuidado, ya que JAVA es Case Sensitive es decir distingue mayúsculas y minúsculas.
+
  
 ---
 
