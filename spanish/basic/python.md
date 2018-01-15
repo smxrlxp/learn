@@ -123,6 +123,8 @@ print(c)  #Mostrará el ultimo valor que le asignamos >>> "(50 - a) * (6 / -0.5)
 
 ### Operaciones con String (cadenas de caracteres)
 
+Concatenación
+
 ```Python
 texto1 = "Hola, "
 texto2 = "soy Acruma"
@@ -130,13 +132,15 @@ texto_concatenado = texto1 + texto2
 
 print(texto_concatenado)
 ``` 
-Concatenación Resultado: "Hola, soy Acruma".
+Resultado: "Hola, soy Acruma".
+
+Repetición
 
 ```Python
 texto_concatenado = texto1 * 2 
 print(texto_concatenado)
 ```
-Repetición    Resultado: "Hola, Hola, ".
+Resultado: "Hola, Hola, ".
 
 ---
 
