@@ -128,7 +128,7 @@ c=0
  
 let c=a+b		#Suma 						Resultado: 8.
 let c=a-b		#Resta						Resultado: -2.
-let c=a*b		#Multiplicación				Resultado: 15.
+let c=a*b		#Multiplicación				 Resultado: 15.
 let c=a%b		#Modulo (El resto de la division)		Resultado: 2.
 
 let c=c+1		#Incremento de valor en 1.			Resultado: 4.
@@ -138,7 +138,7 @@ let c=c-1		#Decremento de valor en 1.			Resultado: 2.
 
 #La sintaxis basica seria -> (bc -l <<< "operaciones a realizar")
 
-c=$(bc -l <<< "$a / $b")		#Division					Resultado: 0.6.
+c=$(bc -l <<< "$a / $b")		#Division		Resultado: 0.6.
 
  ```
  
