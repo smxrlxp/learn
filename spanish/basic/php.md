@@ -64,7 +64,7 @@
  ```PHP
 
  // $identificador = valor  ;     (EJ;)
-    $altura     =  100   ; //El valor "100" se le asigna a la variable "altura"	
+    $altura        =  100   ; //El valor "100" se le asigna a la variable "altura"	
 
  ```
 
@@ -73,7 +73,7 @@ Tipos básicos de variables
  ```PHP
 
 $edad = 34;		//"Integer" (numeros enteros)
-$recorrido = 132.23;  	//"Float"  (numeros reales)
+$recorrido = 132.23;  	//"Double"  (numeros reales)
 $nombre = "Acruma";    	//"String"  (cadena de caracteres)
 $comparativas = true; 	//"Boolean" (valores "True" o "False")
 
