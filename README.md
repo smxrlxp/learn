@@ -32,7 +32,7 @@ Documento completo ( DIY - Hazlo tu mismo )             / Full document ( DIY - 
 
 # Tutorial;  
 
-### *Bash* ; Spanish en proceso  // English in process
+### *Bash* ; Spanish [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/bash.md) - Advanced  // English in process
 ### *Java*; Spanish [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/java.md) - Advanced // English in process
 ### *PHP*; Spanish [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/php.md) - Advanced  // English in process
 ### *PowerShell*; Spanish en proceso  // English in process
