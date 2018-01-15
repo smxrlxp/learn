@@ -87,7 +87,7 @@ Para mostrar variables en pantalla la sintaxis es la que sigue;
 
  ```PHP
 
-echo  VALOR A MOSTRAR;
+echo  VALOR_A_MOSTRAR;
 
  ```
 
