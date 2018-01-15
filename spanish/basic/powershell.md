@@ -254,7 +254,7 @@ Resultado: "Hola, Hola, ".
  
  ### Documento completo
  
- A continuación puede copiar todo el codigo y volcarlo en un archivo llamado `python.py`, para poder ejecutar y ver cada una de las impresiones vistas en el tutorial. O incluso para editarlo a voluntad
+ A continuación puede copiar todo el codigo y volcarlo en un archivo llamado `pwsh.ps1`, para poder ejecutar y ver cada una de las impresiones vistas en el tutorial. O incluso para editarlo a voluntad
  
  ```powershell
  
