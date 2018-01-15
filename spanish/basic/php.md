@@ -23,14 +23,13 @@
   
  ### Creación e iniciación del documento
  
- Para crear un documento en python el nombre de extension debe ser `.php`.
+ Para crear un documento en php el nombre de extension debe ser `.php`.
  
  Una vez creado, se debe abrir y cerrar correctamente la etiqueta de documento php.
  
- ```PHP
+ ```php
  
  <?php
- 
  ?>
  
  ```
