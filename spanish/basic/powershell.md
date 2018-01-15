@@ -217,9 +217,7 @@ Resultado: "Hola, Hola, ".
 
  ```
  
- >Nos devolverá: IsPublic IsSerial Name                                     BaseType            
- >				 -------- -------- ----                                     --------            
- >				 True     True     String                                   System.Object   
+ >Nos devolverá:     String                                   System.Object   
  
  A continuación convertimos "String" a tipo de dato "Double" y comprobamos de nuevo el tipo de variable
  
@@ -230,9 +228,7 @@ Resultado: "Hola, Hola, ".
  
  ```
  
- >Nos devolverá: IsPublic IsSerial Name                                     BaseType            
- >				 -------- -------- ----                                     --------            
- >				 True     True     Double                                   System.Object   
+ >Nos devolverá:      Double                                   System.Object   
  
  Para ello, mostramos en pantalla que tipo tiene la variable (texto, por ejemplo)
  
@@ -242,9 +238,7 @@ Resultado: "Hola, Hola, ".
  
  ``` 
  
- >Nos devolverá: IsPublic IsSerial Name                                     BaseType            
- >				 -------- -------- ----                                     --------            
- >				 True     True     Double                                   System.Object 
+ >Nos devolverá:     Double                                   System.Object 
   
  A continuación convertimos "Double" a tipo de dato "String" y comprobamos de nuevo el tipo de variable
 
@@ -254,9 +248,7 @@ Resultado: "Hola, Hola, ".
  $texto_convertido.GetType()
  
  ```
- >Nos devolverá: IsPublic IsSerial Name                                     BaseType            
- >				 -------- -------- ----                                     --------            
- >				 True     True     String                                   System.Object   
+ >Nos devolverá:      String                                   System.Object   
  
  ---
  
