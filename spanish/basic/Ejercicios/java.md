@@ -1,4 +1,4 @@
-# Ejercicios básicos resueltos.  
+# Ejercicios básicos resueltos en JAVA.  
 
 **1.-** Imprima en pantalla la cadena de caracteres "¡Hola, mundo!" .
 
