@@ -56,7 +56,7 @@ In process
 
 ### *Bash*; En proceso 
 ### *Java*; [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/java.md) - 
-### *PHP*; En proceso
+### *PHP*; [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/php.md)
 ### *PowerShell*; En proceso
 ### *Python*; [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/python.md) - 
 
