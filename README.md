@@ -30,17 +30,19 @@ Documento completo ( DIY - Hazlo tu mismo )             / Full document ( DIY - 
 
 #### *Basic II*;
 
-Arrays (en proceso/in process)
+Arrays (en proceso / in process)
+
+Bucles / Loops (en proceso / in process
 
 # Tutorial;  
 
 ------------------------------------- Spanish -------------------------------------
 
-### *Bash* ; Spanish [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/bash.md) -
-### *Java*; Spanish [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/java.md) - 
-### *PHP*; Spanish [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/php.md) - 
+### *Bash* ; [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/bash.md) -
+### *Java*; [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/java.md) - 
+### *PHP*; [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/php.md) - 
 ### *PowerShell*; [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/powershell.md) - 
-### *Python*; Spanish [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/python.md) -   
+### *Python*; [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/python.md) -   
 
 ------------------------------------- English -------------------------------------
 
@@ -52,11 +54,11 @@ In process
 
 ------------------------------------- Spanish -------------------------------------
 
-### *Bash*; Spanish en proceso 
-### *Java*; Spanish [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/java.md) - 
-### *PHP*; Spanish en proceso
-### *PowerShell*; Spanish en proceso
-### *Python*; Spanish [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/python.md) - 
+### *Bash*; En proceso 
+### *Java*; [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/java.md) - 
+### *PHP*; En proceso
+### *PowerShell*; En proceso
+### *Python*; [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/python.md) - 
 
 ------------------------------------- English -------------------------------------
 
