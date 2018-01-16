@@ -34,21 +34,32 @@ Arrays (en proceso/in process)
 
 # Tutorial;  
 
-### *Bash* ; Spanish [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/bash.md) -   // English in process
-### *Java*; Spanish [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/java.md) -  // English in process
-### *PHP*; Spanish [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/php.md) -   // English in process
-### *PowerShell*; [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/powershell.md) -  // English in process
-### *Python*; Spanish [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/python.md) -  // English in process  
+------------------------------------- Spanish -------------------------------------
+
+### *Bash* ; Spanish [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/bash.md) -
+### *Java*; Spanish [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/java.md) - 
+### *PHP*; Spanish [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/php.md) - 
+### *PowerShell*; [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/powershell.md) - 
+### *Python*; Spanish [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/python.md) -   
+
+------------------------------------- English -------------------------------------
+
+In process
 
 ***
 
 # Ejercicios / Exercises;
 
-### *Bash*; Spanish en proceso  // English in process
-### *Java*; Spanish [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/java.md) -  // English in process
-### *PHP*; Spanish en proceso  // English in process
-### *PowerShell*; Spanish en proceso  // English in process
-### *Python*; Spanish [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/python.md) -  // English in process
+------------------------------------- Spanish -------------------------------------
 
+### *Bash*; Spanish en proceso 
+### *Java*; Spanish [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/java.md) - 
+### *PHP*; Spanish en proceso
+### *PowerShell*; Spanish en proceso
+### *Python*; Spanish [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/python.md) - 
+
+------------------------------------- English -------------------------------------
+
+In process
 
 By [@acruma](https://github.com/acruma)
