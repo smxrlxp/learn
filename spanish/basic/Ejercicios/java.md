@@ -2,7 +2,7 @@
 
 **1.-** Imprima en pantalla la cadena de caracteres "¡Hola, mundo!" .
 
-Ejercicio resuelto  ---------------------  [SPOILER](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md#ejercicio-1-)
+Ejercicio resuelto  ---------------------  [SPOILER](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/java.md#ejercicio-1-)
 
 **2.-** Inicializa una variable (crea una variable y dale un valor) de tipo número real e imprimela por pantalla.
 
