@@ -50,7 +50,7 @@ public static void main(String[] args){
  ```
  En tutoriales más avanzados indicaremos que es una clase "class" y que es una función.
  
- >NOTA IMPORTANTE; Al final de cada linea de codigo dentro de las funciones, deben acabar en ; (punto y coma) exceptuando los comentarios.
+ >NOTA IMPORTANTE;Los comandos irán dentro de las `llaves {}` de la funcion `main`. Al final de cada linea de codigo dentro de las funciones, deben acabar en ; (punto y coma) exceptuando los comentarios.
 
 ---
 
