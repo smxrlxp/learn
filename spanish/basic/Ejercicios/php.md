@@ -1,4 +1,4 @@
-# Ejercicios básicos resueltos en PHP .  
+# Ejercicios básicos resueltos en PHP.
 
 **1.-** Imprima en pantalla la cadena de caracteres "¡Hola, mundo!" .
 
