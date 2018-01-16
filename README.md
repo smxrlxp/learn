@@ -54,10 +54,10 @@ In process
 
 ------------------------------------- Spanish -------------------------------------
 
-### *Bash*; En proceso 
+### *Bash*; [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/bash.md) -
 ### *Java*; [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/java.md) - 
-### *PHP*; [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/php.md)
-### *PowerShell*; [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/powershell.md)
+### *PHP*; [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/php.md) -
+### *PowerShell*; [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/powershell.md) -
 ### *Python*; [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/python.md) - 
 
 ------------------------------------- English -------------------------------------
