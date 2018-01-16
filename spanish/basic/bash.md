@@ -80,23 +80,38 @@ Aunque, una variable no se cree identificandola con un simbolo "$", para llamarl
 
 ### Impresiones en pantalla
 
-Para mostrar variables en pantalla la sintaxis es la que sigue
+En `BASH` hay que diferenciar entre comillas simples `'` y comillas dobles `"`
+
+Los datos introducidos entre comillas simples `' '` se mostraran tal y como aparece el texto entre ellas. EJ;
+
 
  ```bash
-
-echo  VALOR_A_MOSTRAR
+ 
+VALOR=123
+echo '$VALOR A MOSTRAR'
+#Se mostrará en pantalla -> $VALOR A MOSTRAR
 
  ```
-
-Ejemplos
+ 
+En cambio si usamos comillas dobles `" "` se mostrarán las variables dentro de ellas. EJ;
 
  ```bash
-
-echo "Esto es una frase"  #Se mostrará en pantalla "Esto es una frase"
-echo $edad		  #Se mostrará en pantalla la variable "edad"
+ 
+VALOR=123
+echo "$VALOR A MOSTRAR"
+#Se mostrará en pantalla -> 123 A MOSTRAR
 
  ```
+ Podemos hacer combinaciones de ambas comillas en una misma sentencia con un pequeño cambio, debemos poner una `\` antes de la variable para que muestre el nombre de la variable y no su valor . EJ;
 
+ ```powershell
+
+VALOR=123
+echo  " \$VALOR A MOSTRAR"
+#Se mostrará en pantalla -> $VALOR A MOSTRAR
+
+ ```
+ 
 Para mostrar más de una variable se hace mediante concatenación de variables y/o texto.
 
  ```bash
