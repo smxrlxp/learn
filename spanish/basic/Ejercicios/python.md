@@ -76,7 +76,7 @@ print("¡Hola, mundo!")
 
 ```
 
-Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/python.md#ejercicios-b%C3%A1sicos-resueltos)
+Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/python.md#ejercicios-b%C3%A1sicos-resueltos-en-python)
 
 ---
 ---
@@ -110,7 +110,7 @@ print (x)
 
 ```
 
-Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/python.md#ejercicios-b%C3%A1sicos-resueltos)
+Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/python.md#ejercicios-b%C3%A1sicos-resueltos-en-python)
 
 ---
 ---
@@ -145,7 +145,7 @@ print("Tengo" , edad , 'años y mido' , altura , 'cm.')
 
 ```
 
-Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/python.md#ejercicios-b%C3%A1sicos-resueltos)
+Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/python.md#ejercicios-b%C3%A1sicos-resueltos-en-python)
 
 ---
 ---
@@ -184,7 +184,7 @@ print(integer , "\n" , double , "\n" , string , "\n" , bol)
 ```
 
 
-Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/python.md#ejercicios-b%C3%A1sicos-resueltos)
+Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/python.md#ejercicios-b%C3%A1sicos-resueltos-en-python)
 
 ---
 ---
@@ -221,7 +221,7 @@ print(z)
 ```
 
 
-Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/python.md#ejercicios-b%C3%A1sicos-resueltos)
+Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/python.md#ejercicios-b%C3%A1sicos-resueltos-en-python)
 
 ---
 ---
@@ -258,7 +258,7 @@ print(circunferencia)
 ```
 
 
-Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/python.md#ejercicios-b%C3%A1sicos-resueltos)
+Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/python.md#ejercicios-b%C3%A1sicos-resueltos-en-python)
 
 ---
 ---
@@ -293,7 +293,7 @@ print(area)
 
 ```
 
-Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/python.md#ejercicios-b%C3%A1sicos-resueltos)
+Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/python.md#ejercicios-b%C3%A1sicos-resueltos-en-python)
 
 ---
 ---
@@ -328,7 +328,7 @@ print(latitud)
 
 ```
 
-Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/python.md#ejercicios-b%C3%A1sicos-resueltos)
+Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/python.md#ejercicios-b%C3%A1sicos-resueltos-en-python)
 
 ---
 ---
@@ -363,7 +363,7 @@ print(fahrenheit)
 
 ```
 
-Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/python.md#ejercicios-b%C3%A1sicos-resueltos)
+Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/python.md#ejercicios-b%C3%A1sicos-resueltos-en-python)
 
 ---
 ---
@@ -398,4 +398,4 @@ print(celsius)
 
 ```
 
-Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/python.md#ejercicios-b%C3%A1sicos-resueltos)
+Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/python.md#ejercicios-b%C3%A1sicos-resueltos-en-python)

@@ -75,7 +75,7 @@ Imprima en pantalla la cadena de caracteres "¡Hola, mundo!" .
 
 ```
 
-Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/powershell.md#ejercicios-b%C3%A1sicos-resueltos)
+Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/powershell.md#ejercicios-b%C3%A1sicos-resueltos-en-powershell)
 
 ---
 ---
@@ -107,7 +107,7 @@ Inicializa una variable (crea una variable y dale un valor) de tipo número real
 
 ```
 
-Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/powershell.md#ejercicios-b%C3%A1sicos-resueltos)
+Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/powershell.md#ejercicios-b%C3%A1sicos-resueltos-en-powershell)
 
 ---
 ---
@@ -139,7 +139,7 @@ Inicializa dos variables (de tipo número entero) con identificadores `edad` y `
 
 ```
 
-Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/powershell.md#ejercicios-b%C3%A1sicos-resueltos)
+Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/powershell.md#ejercicios-b%C3%A1sicos-resueltos-en-powershell)
 
 ---
 ---
@@ -173,7 +173,7 @@ Inicializa cuatro variables, una de cada tipo de variable básico, e imprímelas
 ```
 
 
-Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/powershell.md#ejercicios-b%C3%A1sicos-resueltos)
+Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/powershell.md#ejercicios-b%C3%A1sicos-resueltos-en-powershell)
 
 ---
 ---
@@ -206,7 +206,7 @@ Inicializa 2 variables de tipo número entero y súmalos en una tercera variable
 ```
 
 
-Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/powershell.md#ejercicios-b%C3%A1sicos-resueltos)
+Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/powershell.md#ejercicios-b%C3%A1sicos-resueltos-en-powershell)
 
 ---
 ---
@@ -240,7 +240,7 @@ Inicializa una variable `radio` y calcula la circunferencia guardando el resulta
 ```
 
 
-Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/powershell.md#ejercicios-b%C3%A1sicos-resueltos)
+Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/powershell.md#ejercicios-b%C3%A1sicos-resueltos-en-powershell)
 
 ---
 ---
@@ -272,7 +272,7 @@ Inicializa una variable `radio` y calcula el área de un círculo guardando el r
 
 ```
 
-Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/powershell.md#ejercicios-b%C3%A1sicos-resueltos)
+Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/powershell.md#ejercicios-b%C3%A1sicos-resueltos-en-powershell)
 
 ---
 ---
@@ -304,7 +304,7 @@ Convierte una variable con identificador `latitud` de tipo **cadena de caractere
 
 ```
 
-Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/powershell.md#ejercicios-b%C3%A1sicos-resueltos)
+Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/powershell.md#ejercicios-b%C3%A1sicos-resueltos-en-powershell)
 
 ---
 ---
@@ -336,7 +336,7 @@ Inicializa una variable `celsius`, calcula su equivalente a grados Fahrenheit gu
 
 ```
 
-Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/powershell.md#ejercicios-b%C3%A1sicos-resueltos)
+Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/powershell.md#ejercicios-b%C3%A1sicos-resueltos-en-powershell)
 
 ---
 ---
@@ -367,4 +367,4 @@ Inicializa una variable `fahrenheit`, calcula su equivalente a grados Celsius gu
 
 ```
 
-Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/powershell.md#ejercicios-b%C3%A1sicos-resueltos)
+Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/powershell.md#ejercicios-b%C3%A1sicos-resueltos-en-powershell)
