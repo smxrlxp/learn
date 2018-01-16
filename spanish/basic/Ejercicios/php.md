@@ -152,7 +152,7 @@ Inicializa dos variables (de tipo número entero) con identificadores `edad` y `
 
 $edad = 26;
 $altura = 183;
-echo "Tengo ". $edad ." años y mido ". $altura ." cm";
+echo "Tengo ". $edad ." años y mido ". $altura ." cm.";
 
 ?>
 
