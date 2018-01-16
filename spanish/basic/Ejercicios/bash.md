@@ -72,6 +72,7 @@ Imprima en pantalla la cadena de caracteres "¡Hola, mundo!" .
 
 ```bash
 
+echo "¡Hola, mundo!"
 
 ```
 
@@ -104,6 +105,8 @@ Inicializa una variable (crea una variable y dale un valor) de tipo número real
 
 ```bash
 
+x=123.2
+echo $x
 
 ```
 
@@ -136,6 +139,9 @@ Inicializa dos variables (de tipo número entero) con identificadores `edad` y `
 
 ```bash
 
+edad=18
+altura=185
+echo "Tengo $edad años y mido $altura cm."
 
 ```
 
@@ -169,6 +175,12 @@ Inicializa cuatro variables, una de cada tipo de variable básico, e imprímelas
 
 ```bash
 
+integer=1
+double=-10.1
+string="Holaaa"
+boolean=true
+echo -e "$integer \n$double \n$string \n$boolean"
+#Recordemos que tecnicamente TODO son "string"
 
 ```
 
@@ -202,6 +214,10 @@ Inicializa 2 variables de tipo número entero y súmalos en una tercera variable
 
 ```bash
 
+x=1
+y=10
+let z=$x+$y
+echo $z
 
 ```
 
@@ -236,6 +252,9 @@ Inicializa una variable `radio` y calcula la circunferencia guardando el resulta
 
 ```bash
 
+radio=11
+circunferencia=$(bc -l <<< " 2 * 3.14 * $radio")
+echo $circunferencia
 
 ```
 
@@ -269,6 +288,9 @@ Inicializa una variable `radio` y calcula el área de un círculo guardando el r
 
 ```bash
 
+radio=10
+area=$(bc -l <<< " 3.14 * $radio * $radio")
+echo $area
 
 ```
 
@@ -301,6 +323,7 @@ Convierte una variable con identificador `latitud` de tipo **cadena de caractere
 
 ```bash
 
+#No podemos convertir, ya que BASH, solo reconoce strings (todos los datos los guarda como cadena de caracteres)
 
 ```
 
@@ -333,6 +356,9 @@ Inicializa una variable `celsius`, calcula su equivalente a grados Fahrenheit gu
 
 ```bash
 
+celsius=23
+fahrenheit=$(bc -l <<< "($celsius * 1.8) + 32")
+echo $fahrenheit
 
 ```
 
@@ -364,6 +390,10 @@ Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob
 Inicializa una variable `fahrenheit`, calcula su equivalente a grados Celsius guardando el resultado en la variable `celsius` e ímprimelo por pantalla. **Fórmula: celsius = (fahrenheit - 32) / 1.8**.
 
 ```bash
+
+fahrenheit=73.4
+celsius=$(bc -l <<< "($fahrenheit - 32) / 1.8")
+echo $celsius
 
 ```
 
