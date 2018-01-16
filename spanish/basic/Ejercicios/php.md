@@ -72,6 +72,11 @@ Imprima en pantalla la cadena de caracteres "¡Hola, mundo!" .
 
 ```php
 
+<?PHP
+
+echo "¡Hola, mundo!";
+
+?>
 
 ```
 
@@ -103,6 +108,13 @@ Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob
 Inicializa una variable (crea una variable y dale un valor) de tipo número real e imprimela por pantalla.
 
 ```php
+
+<?PHP
+
+$x = +123.2;
+echo ($x);
+
+?>
 
 
 ```
@@ -136,6 +148,13 @@ Inicializa dos variables (de tipo número entero) con identificadores `edad` y `
 
 ```php
 
+<?PHP
+
+$edad = 26;
+$altura = 183;
+echo "Tengo ". $edad ." años y mido ". $altura ." cm";
+
+?>
 
 ```
 
@@ -165,10 +184,19 @@ Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob
 # Ejercicio 4.-
 
 Inicializa cuatro variables, una de cada tipo de variable básico, e imprímelas todas en un mismo mensaje indicando cual es cual.
-> Opcional - Cada una debe aparecer en una línea distinta (consejo usa \n).
+> Opcional - Cada una debe aparecer en una línea distinta (consejo usa `. PHP_EOL`).
 
 ```php
 
+<?PHP
+
+$integer = 1;
+$double = -10.1;
+$string = "Acruma";
+$bol = True;
+echo $integer . PHP_EOL . $double . PHP_EOL . $string . PHP_EOL . $bol;
+
+?>
 
 ```
 
@@ -202,6 +230,14 @@ Inicializa 2 variables de tipo número entero y súmalos en una tercera variable
 
 ```php
 
+<?PHP
+
+$x = 1;
+$y = 10;
+$z = $x + $y;
+echo $z;
+
+?>
 
 ```
 
@@ -236,6 +272,13 @@ Inicializa una variable `radio` y calcula la circunferencia guardando el resulta
 
 ```php
 
+<?PHP
+
+$radio = 11;
+$circunferencia = 2 * 3.14 * $radio;
+echo $circunferencia;
+
+?>
 
 ```
 
@@ -269,6 +312,13 @@ Inicializa una variable `radio` y calcula el área de un círculo guardando el r
 
 ```php
 
+<?PHP
+
+$radio = 10;
+$area= 3.14 * $radio * $radio;
+echo $area;
+
+?>
 
 ```
 
@@ -301,6 +351,13 @@ Convierte una variable con identificador `latitud` de tipo **cadena de caractere
 
 ```php
 
+<?PHP
+
+$latitud= "-234.62";
+$latitud= (float)$latitud - 21.34;
+echo $latitud;
+
+?>
 
 ```
 
@@ -333,6 +390,13 @@ Inicializa una variable `celsius`, calcula su equivalente a grados Fahrenheit gu
 
 ```php
 
+<?PHP
+
+$celsius = 23;
+$fahrenheit = ($celsius * 1.8) + 32;
+echo $fahrenheit;
+
+?>
 
 ```
 
@@ -364,6 +428,14 @@ Volver a la descripcion de los [Ejercicios](https://github.com/acruma/learn/blob
 Inicializa una variable `fahrenheit`, calcula su equivalente a grados Celsius guardando el resultado en la variable `celsius` e ímprimelo por pantalla. **Fórmula: celsius = (fahrenheit - 32) / 1.8**.
 
 ```php
+
+<?PHP
+
+$fahrenheit = 73.4;
+$celsius = ($fahrenheit -32 ) / 1.8;
+echo $celsius;
+
+?>
 
 ```
 
