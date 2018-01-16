@@ -10,7 +10,7 @@
 
 [Basic](https://github.com/acruma/learn#basic)
 
-[Advanced](https://github.com/acruma/learn#advanced)
+[Basic II](https://github.com/acruma/learn/blob/master/README.md#basic-ii)
 
 #### *Basic*;
 
