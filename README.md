@@ -45,10 +45,10 @@ Documento completo ( DIY - Hazlo tu mismo )             / Full document ( DIY - 
 # Ejercicios / Exercises;
 
 ### *Bash*; Spanish en proceso  // English in process
-### *Java*; Spanish [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Java.md) - Advanced // English in process
+### *Java*; Spanish [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/java.md) - Advanced // English in process
 ### *PHP*; Spanish en proceso  // English in process
 ### *PowerShell*; Spanish en proceso  // English in process
-### *Python*; Spanish [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/Python.md) - Advanced  // English in process
+### *Python*; Spanish [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/Ejercicios/python.md) - Advanced  // English in process
 
 
 By [@acruma](https://github.com/acruma)
