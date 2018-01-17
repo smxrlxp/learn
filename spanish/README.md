@@ -1,16 +1,16 @@
 # Learn Bash, Java, PHP, PowerShell, Python  
 
-[Niveles](https://github.com/acruma/learn#niveles)
+[Niveles](https://github.com/acruma/learn/tree/master/spanish#niveles)
 
-[Tutorial](https://github.com/acruma/learn#tutorial)
+[Tutorial](https://github.com/acruma/learn/tree/master/spanish#tutorial)
 
-[Ejercicios](https://github.com/acruma/learn#ejercicios)
+[Ejercicios](https://github.com/acruma/learn/tree/master/spanish#ejercicios)
 
 # Niveles
 
-[Basic](https://github.com/acruma/learn#basic)
+[Basic](https://github.com/acruma/learn/tree/master/spanish#basic)
 
-[Basic II](https://github.com/acruma/learn#basic-ii)
+[Basic II](https://github.com/acruma/learn/tree/master/spanish#basic-ii)
 
 #### *Basic*;
 
