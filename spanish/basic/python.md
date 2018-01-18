@@ -99,8 +99,10 @@ c = a + b		#Suma 						Resultado: 8.
 c = a - b		#Resta						Resultado: -2.
 c = a * b		#Multiplicación				Resultado: 15.
 c = a / b		#Division					Resultado: 0.6.
-c = a % b		#Modulo (El resto de la division)		Resultado: 2.
- 
+c = b % a		#Modulo (El resto de la division)		Resultado: 2.
+c = a ** 2 #Exponente 						Resultado: 9
+c = b // a #Division entera 						Resultado: 1
+
 c = c + 1		#Incremento de valor en 1.			Resultado: 4.
 c = c - 1		#Decremento de valor en 1.			Resultado: 2.
  ```
