@@ -1,5 +1,31 @@
 # Aprenda sobre arrays en PYTHON
 
+# Indice
+
+[Definición](https://github.com/acruma/learn/blob/master/spanish/basic2/arrays/python.md#definici%C3%B3n)
+
+[Sintaxis](https://github.com/acruma/learn/blob/master/spanish/basic2/arrays/python.md#sintaxis)
+
+[Recuento del número de elementos](https://github.com/acruma/learn/blob/master/spanish/basic2/arrays/python.md#recuento-del-n%C3%BAmero-de-elementos)
+
+[Modificación de elementos](https://github.com/acruma/learn/blob/master/spanish/basic2/arrays/python.md#modificaci%C3%B3n-de-elementos)
+
+[Agregar elementos](https://github.com/acruma/learn/blob/master/spanish/basic2/arrays/python.md#agregar-elementos)
+
+[Eliminar elementos](https://github.com/acruma/learn/blob/master/spanish/basic2/arrays/python.md#eliminar-elementos)
+
+[Invertir el orden de los elementos](https://github.com/acruma/learn/blob/master/spanish/basic2/arrays/python.md#invertir-el-orden-de-los-elementos)
+
+[Ordenar una lista](https://github.com/acruma/learn/blob/master/spanish/basic2/arrays/python.md#ordenar-una-lista)
+
+[Sub-Listas](https://github.com/acruma/learn/blob/master/spanish/basic2/arrays/python.md#sub-listas)
+
+[Listas Multidimensionales](https://github.com/acruma/learn/blob/master/spanish/basic2/arrays/python.md#listas-multidimensionales)
+
+[Creación de listas en blanco](https://github.com/acruma/learn/blob/master/spanish/basic2/arrays/python.md#creaci%C3%B3n-de-listas-en-blanco)
+
+[Recopilación](https://github.com/acruma/learn/blob/master/spanish/basic2/arrays/python.md#recopilaci%C3%B3n-de-todo-lo-dado)
+
 # Definición
 
 En primer lugar, debemos definir lo que es un `array`. Aunque, en `Python` vamos a cambiarle el nombre a... `Listas`
@@ -46,7 +72,7 @@ print(numero_lista) #Mostrará `4` que es el número de elementos.
 
 ```
 
-# Modificación de elementos
+# Modificacion de elementos
 
 Le asignaremos un nuevo valor a la posición deseada.
 
@@ -167,7 +193,7 @@ print(lista3d[0][1][2]) # Mostrariamos el elemento [0] de la primera dimension [
 
 Se puede operar con lo aprendido hasta ahora, con cualquier tabla multidimensional.
 
-# Creación de listas en blanco
+# Creacion de listas en blanco
 
 Podemos crear una lista en blanco. ( Por ejemplo, para rellenar mas tarde )
 
@@ -220,4 +246,4 @@ print(sub_lista_2d)  # Mostrará ['Python', 'enseña']
 
 ```
 
-By [@acruma]()
+By [@acruma](https://github.com/acruma)
