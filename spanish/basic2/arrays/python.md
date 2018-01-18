@@ -180,14 +180,14 @@ A continuacion se mostrará como crear una lista con mas de una dimension, es de
 lista2d = [  [0,1,2], [1,1,2], [2,1,2], [3,1,2]  ]
 
 print(lista2d[3][0])		# Mostrariamos el elemento [3] de la primera dimension ( [3,1,2] ) 
-							# Y luego el elemento[0] de la segunda dimension que seria el "3"
+				# Y luego el elemento[0] de la segunda dimension que seria el "3"
 						
 						
 lista3d = [   [[0,1,2], [1,1,2]]   ,   [[2,1,2], [3,1,2]]   ] 
 
 print(lista3d[0][1][2]) # Mostrariamos el elemento [0] de la primera dimension [[0,1,2], [1,1,2]]
-						# Luego mostrariamos el elemento [1] de la segunda dimension [1,1,2]
-						# Y por ultimo el elemento [2] de la tercera dimension "2"
+			# Luego mostrariamos el elemento [1] de la segunda dimension [1,1,2]
+			# Y por ultimo el elemento [2] de la tercera dimension "2"
 
 ```
 
@@ -200,8 +200,8 @@ Podemos crear una lista en blanco. ( Por ejemplo, para rellenar mas tarde )
 ```python
 
 lista_vacia_1d = []                      # Crea una lista vacia de 1 dimension
-lista_vacia_2d = [ [] ]                    # Crea una lista vacia de 2 dimensiones
-lista_vacia_3d = [ [ [] ] ]                  # Crea una lista vacia de 3 dimensiones
+lista_vacia_2d = [ [] ]                  # Crea una lista vacia de 2 dimensiones
+lista_vacia_3d = [ [ [] ] ]              # Crea una lista vacia de 3 dimensiones
 
 #Etcétera...
 
@@ -218,12 +218,12 @@ print(len(lista_2d_vacia)) # Mostrará que tiene 2 elementos
 lista_2d_vacia[0].insert(0, 4.1) # Agregamos al elemento 0-0 > 4.1
 lista_2d_vacia[0].insert(1, 2)   # Agregamos al elemento 0-1 > 2
 
-lista_2d_vacia[1].append('Acrum') # Agregamos a la ultima posicion del elemnto 1 > 'Acrum'
+lista_2d_vacia[1].append('Acruma') # Agregamos a la ultima posicion del elemnto 1 > 'Acruma'
 lista_2d_vacia[1].append('Soy')   # Agregamos a la ultima posicion del elemnto 1 > 'Soy'
 
 lista_2d = lista_2d_vacia   # Volcar valor a nueva variable
 
-print(lista_2d) 	# Mostrará [  [4.1, 2]  ,  ['Acrum', 'Soy']  ]
+print(lista_2d) 	# Mostrará [  [4.1, 2]  ,  ['Acruma', 'Soy']  ]
 
 lista_2d[0][1] = 10 # Modificamos 0-1 que tenia de valor "2" a valor "10"
 
@@ -233,12 +233,12 @@ lista_2d_vacia[1].append('te') # Agregamos a la ultima posicion del elemnto 1 > 
 lista_2d_vacia[1].append('enseña') # Agregamos a la ultima posicion del elemnto 1 > 'enseña'
 lista_2d_vacia[1].append('Python') # Agregamos a la ultima posicion del elemnto 1 > 'Python'
 
-print(lista_2d)     # [[4.1, 10], ['Acrum', 'te', 'enseña', 'Python']]
+print(lista_2d)     # [[4.1, 10], ['Acruma', 'te', 'enseña', 'Python']]
 
 lista_2d[0].reverse() # Le damos la vuelta al elemento 0
 lista_2d[1] = sorted(lista_2d[1]) # Ordenamos alfabeticamente el elemento 1
 
-print(lista_2d) # Mostrará [[10, 4.1], ['Acrum', 'Python', 'enseña', 'te']] -- ( Mayúsculas primero )
+print(lista_2d) # Mostrará [[10, 4.1], ['Acruma', 'Python', 'enseña', 'te']] -- ( Mayúsculas primero )
 
 sub_lista_2d = lista_2d[1][1:3]  # Elegimos del elemento 1. Los elementos 1 y 2 ( el 3 no se selecciona, recuerdalo )
 
