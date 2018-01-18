@@ -98,7 +98,7 @@ colores.insert(2, 'Gris')   #Se agregará 'Gris' en la posicion (2)          Res
 colores.insert(0, 'Blanco') #Se agregará 'Blanco' al principio de la lista. Resultado; ['Blanco', 'Rojo', 'Verde','Gris, 'Azul']
 colores.append('Negro')     #Se agregará 'Negro' al final de la lista.      Resultado; ['Blanco', 'Rojo', 'Verde','Gris, 'Azul', 'Negro']
 
-print(colores)
+print(colores) Mostrará ['Blanco', 'Rojo', 'Verde','Gris, 'Azul', 'Negro']
 
 ```
 
@@ -110,10 +110,10 @@ Para eleminiar un elemento usaremos `.pop` y la posicion del elemento a eliminar
 
 lenguajes = ['Python', 'Bash', 'PowerShell', 'Java']
 lenguajes.pop(2)			#Se eliminará el elemento en la posicion (2) es decir 'PowerShell' Resultado; ['Python', 'Bash', 'Java']
-lenguajes.pop(0)			#Se eliminará el primer elemento es decir 'Python'                 Resultado; ['Bash', 'Java']
-lenguajes.pop()				#Se eliminará el ultimo elemento es decir 'Java'				   Resultado; ['Bash']
+lenguajes.pop(0)			#Se eliminará el primer elemento es decir 'Python' Resultado; ['Bash', 'Java']
+lenguajes.pop()				#Se eliminará el ultimo elemento es decir 'Java'   Resultado; ['Bash']
 
-print(lenguajes)
+print(lenguajes)	# Mostrará ['Bash']
 
 ```
 
