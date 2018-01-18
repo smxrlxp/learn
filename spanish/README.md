@@ -41,7 +41,7 @@ Bucles ( en proceso )
 ### *Java*; [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/java.md) - 
 ### *PHP*; [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/php.md) - 
 ### *PowerShell*; [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/powershell.md) - 
-### *Python*; [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/python.md) - BASIC II ( [Arrays](https://github.com/acruma/learn/blob/master/spanish/basic2/arrays/python.md)
+### *Python*; [BASIC](https://github.com/acruma/learn/blob/master/spanish/basic/python.md) - BASIC II ( [Arrays](https://github.com/acruma/learn/blob/master/spanish/basic2/arrays/python.md) - )
 
 
 ***
