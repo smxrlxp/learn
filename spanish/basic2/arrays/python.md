@@ -98,7 +98,7 @@ colores.insert(2, 'Gris')   #Se agregará 'Gris' en la posicion (2)          Res
 colores.insert(0, 'Blanco') #Se agregará 'Blanco' al principio de la lista. Resultado; ['Blanco', 'Rojo', 'Verde','Gris, 'Azul']
 colores.append('Negro')     #Se agregará 'Negro' al final de la lista.      Resultado; ['Blanco', 'Rojo', 'Verde','Gris, 'Azul', 'Negro']
 
-print(colores) Mostrará ['Blanco', 'Rojo', 'Verde','Gris, 'Azul', 'Negro']
+print(colores) # Se mostrará ['Blanco', 'Rojo', 'Verde','Gris, 'Azul', 'Negro']
 
 ```
 
@@ -113,7 +113,7 @@ lenguajes.pop(2)			#Se eliminará el elemento en la posicion (2) es decir 'Power
 lenguajes.pop(0)			#Se eliminará el primer elemento es decir 'Python' Resultado; ['Bash', 'Java']
 lenguajes.pop()				#Se eliminará el ultimo elemento es decir 'Java'   Resultado; ['Bash']
 
-print(lenguajes)	# Mostrará ['Bash']
+print(lenguajes)	# Se mostrará ['Bash']
 
 ```
 
